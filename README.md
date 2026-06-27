@@ -1,6 +1,6 @@
 # Naveen Kumar — Portfolio
 
-🔗 **Live site:** [naveen17122000.github.io](https://naveen17122000.github.io)
+🔗 **Live site:** [Naveen Kumar](https://naveenthodimela.netlify.app/)
 
 A single-page developer portfolio built around an API-console aesthetic — terminal chrome, JSON-response styling, and endpoint-style section labels — reflecting a backend-first approach to building software.
 
