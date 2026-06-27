@@ -31,7 +31,7 @@ This site is intentionally framework-free — a single static HTML file with no 
 | Fonts | [Space Grotesk](https://fonts.google.com/specimen/Space+Grotesk) · [JetBrains Mono](https://fonts.google.com/specimen/JetBrains+Mono) (Google Fonts) |
 | Hosting | GitHub Pages |
 
-No React, no Tailwind, no npm install, no build process. Open `index.html` in any browser and it works.
+No React, no Tailwind, no npm install, no build process. Open `index.html` in any browser, and it works.
 
 ## Features
 
