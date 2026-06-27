@@ -1,4 +1,4 @@
-# Naveen Kumar Thodimela — Portfolio
+# Naveen Kumar — Portfolio
 
 🔗 **Live site:** [naveen17122000.github.io](https://naveen17122000.github.io)
 
