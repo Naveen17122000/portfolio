@@ -10,7 +10,7 @@ A single-page developer portfolio built around an API-console aesthetic — term
 
 ## About
 
-This is the personal portfolio of **Naveen Kumar Thodimela**, a Python Backend Developer specializing in Django, Django REST Framework, and React.js. The site showcases:
+This is the personal portfolio of **Naveen Kumar**, a Python Backend Developer specializing in Django, Django REST Framework, and React.js. The site showcases:
 
 - Professional background and current role
 - Technical skill set with proficiency indicators
